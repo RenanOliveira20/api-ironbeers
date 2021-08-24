@@ -5,7 +5,8 @@
       "image": "https://www.skol.com.br/sites/g/files/wnfebl1886/files/paragraphs/product_size/2021-04/Skol%20Pilsen_300.png",
       "price": 2.49,
       "liters": "300ml",
-      "quantity": 300,
+      "inventory":330,
+      "quantity": 0,
       "id": 0,
       "type": "beer"
     },
@@ -14,7 +15,8 @@
       "image": "https://www.skol.com.br/sites/g/files/wnfebl1886/files/paragraphs/product_size/2021-04/Skol%20Pilsen_269_0.png",
       "price": 2.19,
       "liters": "269ml",
-      "quantity": 300,
+      "inventory":330,
+      "quantity": 0,
       "id": 1,
       "type": "beer"
     },
@@ -23,7 +25,8 @@
       "image": "https://www.skol.com.br/sites/g/files/wnfebl1886/files/paragraphs/product_size/2021-07/300x750_skol_lata_269ml.png",
       "price": 2.29,
       "liters": "269ml",
-      "quantity": 300,
+      "inventory":330,
+      "quantity": 0,
       "id": 2,
       "type": "beer"
     },
@@ -32,7 +35,8 @@
       "image": "https://www.skol.com.br/sites/g/files/wnfebl1886/files/paragraphs/product_size/2021-04/Skol%20Pilsen_473.png",
       "price": 2.19,
       "liters": "473ml",
-      "quantity": 300,
+      "inventory":330,
+      "quantity": 0,
       "id": 3,
       "type": "beer"
     },
@@ -41,7 +45,8 @@
       "image": "https://www.castelaoemcasa.com.br/app/fotos/media_5f7c510588b34.PNG",
       "price": 2.99,
       "liters": "350ml",
-      "quantity": 300,
+      "inventory":330,
+      "quantity": 0,
       "id": 5,
       "type": "beer"
     },
