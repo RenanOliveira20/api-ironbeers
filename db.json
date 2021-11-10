@@ -2,7 +2,7 @@
   "products": [
     {
       "name": "Skol",
-      "image": "https://www.skol.com.br/sites/g/files/wnfebl1886/files/paragraphs/product_size/2021-04/Skol%20Pilsen_300.png",
+      "image": "https://cliquecerva.com.br/wp-content/uploads/2021/04/skol.png",
       "price": 2.49,
       "liters": "300ml",
       "inventory":330,
@@ -12,7 +12,7 @@
     },
     {
       "name": "Skol",
-      "image": "https://www.skol.com.br/sites/g/files/wnfebl1886/files/paragraphs/product_size/2021-04/Skol%20Pilsen_269_0.png",
+      "image": "https://i0.wp.com/www.hortifrutiweb.com.br/wp-content/uploads/2021/05/Cerveja-Skol-Lata-269ml-33.png?fit=500%2C500",
       "price": 2.19,
       "liters": "269ml",
       "inventory":330,
@@ -22,7 +22,7 @@
     },
     {
       "name": "Skol Puro Malte",
-      "image": "https://www.skol.com.br/sites/g/files/wnfebl1886/files/paragraphs/product_size/2021-07/300x750_skol_lata_269ml.png",
+      "image": "https://trimais.vteximg.com.br/arquivos/ids/1008904-1000-1000/foto_original.jpg?v=637395841213070000",
       "price": 2.29,
       "liters": "269ml",
       "inventory":330,
@@ -32,7 +32,7 @@
     },
     {
       "name": "Skol",
-      "image": "https://www.skol.com.br/sites/g/files/wnfebl1886/files/paragraphs/product_size/2021-04/Skol%20Pilsen_473.png",
+      "image": "https://www.supermercadosbh.com.br/wp-content/uploads/2020/08/Cerveja-Skol-Pilsen-Lat%C3%A3o-473ml-copy.png",
       "price": 2.19,
       "liters": "473ml",
       "inventory":330,
@@ -42,7 +42,7 @@
     },
     {
       "name": "Brahma Duplo Malte",
-      "image": "https://www.brahma.com.br/sites/g/files/wnfebl2051/files/styles/product_card_and_list/public/users/user816/Duplo%20Malte%20cerveja.png?itok=Gd8PqdrL",
+      "image": "https://www.brahma.com.br/sites/g/files/wnfebl2906/files/paragraphs/product_size/2021-05/brahmalata.png",
       "price": 2.99,
       "liters": "350ml",
       "inventory":330,
